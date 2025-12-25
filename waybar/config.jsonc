@@ -63,7 +63,7 @@
     "format": "{}°",
     "tooltip": true,
     "interval": 600,
-    "exec": "wttrbar --location Malappuram --nerd",
+    "exec": "wttrbar --location Tokyo --nerd", // Change it to your location here 
     "return-type": "json"
   },
   "custom/update": {
